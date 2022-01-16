@@ -5,4 +5,3 @@ const IterationSample = () => {
   return <ul>{nameList}</ul>;
 };
 export default IterationSample;
-asdsadasdasd;
