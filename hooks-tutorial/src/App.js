@@ -1,8 +1,8 @@
 import React from 'react';
-import Average from './Average';
+import AverageUseRef from './AverageUseRef';
 
 const App = () => {
-  return <Average />;
+  return <AverageUseRef />;
 };
 
 export default App;
